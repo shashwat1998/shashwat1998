@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Header image](https://raw.githubusercontent.com/jayrajroshan/jayrajroshan/master/Assets/cover.jpg)
+![Header image](Assets/cover.jpg)
 
 
 <!--
