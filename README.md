@@ -11,5 +11,3 @@ Currently interested in anything Data Science.
 <br><br>
 You're visitor number:<br><br>
 ![Visitor Count](https://profile-counter.glitch.me/shashwat1998/count.svg)
-
-:eof: EOF
